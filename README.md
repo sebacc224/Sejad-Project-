@@ -18,6 +18,8 @@ CHAT WHATSAPP
 - Quiero 2 empanadas de carne
 - IA: Claro! Puedo enseñarte a hacer la receta.
 
+(ESTA ES UNA RESPUESTA NO DESEADA - DEBE ATENDERNOS COMO UN TRABAJADOR DE LA EMPRESA, NO COMO UNA IA)
+
 
 
 
